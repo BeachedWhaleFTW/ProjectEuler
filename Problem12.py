@@ -16,5 +16,5 @@ for n in range(1, 99999999999999):
     if get_factors(number) >= 500:
         break
 
-print(f, number)
+print(number)
 
